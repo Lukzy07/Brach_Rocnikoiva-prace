@@ -43,38 +43,6 @@ h1 {border-style: dashed;
 
 
 }
-.menu {  background-color: greenyellow;
-         width: 200px;
-         height: 25px;
-         position: absolute;
-         top: 700px;
-         left: 150px;
-         text-align: center;
-}
-.menu_2 { background-color: greenyellow;
-         width: 200px;
-         height: 25px;
-         position: absolute;
-         top: 700px;
-         left: 1500px;
-         text-align: center;
-}
-.menu_3 {  background-color: greenyellow;
-           width: 200px;
-           height: 25px;
-           position: absolute;
-           top:1700px;
-           left:1500px ;
-           text-align: center;
-}
-.menu_4 {background-color: greenyellow;
-        width: 200px;
-        height: 25px;
-        position: absolute;
-        top:900px;
-        left:1500px ;
-        text-align: center;
-}
 .rossi_dite{ height: 300px;
              width:400px ;
 
